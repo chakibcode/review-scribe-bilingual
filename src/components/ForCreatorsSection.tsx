@@ -23,6 +23,7 @@ const ForCreatorsSection: React.FC = () => {
               variant="outline" 
               size="lg"
               className="bg-white text-primary hover:bg-gray-100 border-white"
+              onClick={() => window.location.href = '/creators'}
             >
               {t('learnMore')}
             </Button>

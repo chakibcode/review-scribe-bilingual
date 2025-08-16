@@ -36,7 +36,30 @@ const translations = {
     learnMore: "اعرف المزيد",
     
     // Footer
-    copyright: "© 2024 موثوق. جميع الحقوق محفوظة."
+    copyright: "© 2024 موثوق. جميع الحقوق محفوظة.",
+    
+    // Creator Page
+    creatorPageTitle: "انضم إلى برنامج المراجعة مقابل الوصول",
+    creatorPageSubtitle: "احصل على تقييمات موثوقة من طلاب حقيقيين واكتشف نقاط القوة والضعف في دورتك",
+    howItWorks: "كيف يعمل البرنامج",
+    step1Title: "قدم دورتك",
+    step1Desc: "أرسل تفاصيل دورتك وستتم مراجعتها من قبل فريقنا",
+    step2Title: "طلاب موثوقون",
+    step2Desc: "نختار طلاباً موثوقين ومهتمين بمجال دورتك",
+    step3Title: "تقييمات مفصلة",
+    step3Desc: "احصل على تقييمات شاملة ومفيدة لتحسين دورتك",
+    benefits: "الفوائد",
+    benefit1: "تقييمات حقيقية من طلاب مهتمين",
+    benefit2: "تحسين جودة المحتوى التعليمي",
+    benefit3: "زيادة الثقة والمصداقية",
+    benefit4: "ردود أفعال مفصلة ومفيدة",
+    joinProgram: "انضم للبرنامج",
+    fullName: "الاسم الكامل",
+    email: "البريد الإلكتروني",
+    courseTitle: "عنوان الدورة",
+    courseDescription: "وصف الدورة",
+    submitApplication: "إرسال الطلب",
+    contactInfo: "معلومات التواصل"
   },
   fr: {
     // Header
@@ -64,7 +87,30 @@ const translations = {
     learnMore: "En savoir plus",
     
     // Footer
-    copyright: "© 2024 Vérifié. Tous droits réservés."
+    copyright: "© 2024 Vérifié. Tous droits réservés.",
+    
+    // Creator Page
+    creatorPageTitle: "Rejoignez le Programme Avis contre Accès",
+    creatorPageSubtitle: "Obtenez des avis vérifiés de vrais étudiants et découvrez les forces et faiblesses de votre cours",
+    howItWorks: "Comment ça marche",
+    step1Title: "Soumettez votre cours",
+    step1Desc: "Envoyez les détails de votre cours qui sera examiné par notre équipe",
+    step2Title: "Étudiants vérifiés",
+    step2Desc: "Nous sélectionnons des étudiants vérifiés intéressés par votre domaine",
+    step3Title: "Avis détaillés",
+    step3Desc: "Recevez des avis complets et utiles pour améliorer votre cours",
+    benefits: "Avantages",
+    benefit1: "Avis authentiques d'étudiants intéressés",
+    benefit2: "Amélioration de la qualité du contenu",
+    benefit3: "Augmentation de la confiance et crédibilité",
+    benefit4: "Retours détaillés et constructifs",
+    joinProgram: "Rejoindre le Programme",
+    fullName: "Nom complet",
+    email: "Email",
+    courseTitle: "Titre du cours",
+    courseDescription: "Description du cours",
+    submitApplication: "Soumettre la candidature",
+    contactInfo: "Informations de contact"
   }
 };
 

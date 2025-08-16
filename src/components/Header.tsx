@@ -21,10 +21,10 @@ const Header: React.FC = () => {
 
           {/* Navigation */}
           <nav className={`hidden md:flex items-center space-x-8 ${isRTL ? 'space-x-reverse' : ''}`}>
-            <a href="#courses" className="text-foreground hover:text-primary smooth-transition">
+            <a href="/#courses" className="text-foreground hover:text-primary smooth-transition">
               {t('courses')}
             </a>
-            <a href="#for-creators" className="text-foreground hover:text-primary smooth-transition">
+            <a href="/creators" className="text-foreground hover:text-primary smooth-transition">
               {t('forCreators')}
             </a>
             <a href="#about" className="text-foreground hover:text-primary smooth-transition">
